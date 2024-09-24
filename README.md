@@ -1,1 +1,1 @@
-Máscara JavaScript no formato brasileiro para telefones. Com DDI, DDD e possibilidade de 8 ou 9 dígitos.
+Máscara JavaScript para o formato brasileiro de telefone. Com DDI, DDD e com possibilidade de 8 ou 9 dígitos.
